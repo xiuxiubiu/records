@@ -1,1 +1,14 @@
 # chowder
+
+* Go
+  * [Gin框架ShouldBind/ShouldBindBodyWith源码学习](https://github.com/xiuxiubiu/chowder/issues/2)
+  
+
+* PHP
+  * [使用php-amqplib客户端的RabbitMQ代码示例](https://github.com/xiuxiubiu/chowder/issues/3) 
+  
+* 杂烩
+  * [搜索资料记录](https://github.com/xiuxiubiu/chowder/issues/4)
+  * [FFmpeg环境搭建](https://github.com/xiuxiubiu/chowder/issues/1)
+
+
