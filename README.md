@@ -1,7 +1,7 @@
 # chowder
 
 * Go
-  * [Gin框架ShouldBind/ShouldBindBodyWith源码学习](https://github.com/xiuxiubiu/chowder/issues/2) (2020年3月17日)
+  * [Gin框架ShouldBind/ShouldBindBodyWith源码学习](https://github.com/xiuxiubiu/chowder/issues/2)
   
 
 * PHP
