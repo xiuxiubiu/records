@@ -4,9 +4,9 @@
 
 ---
 
-* [***资料记录 Go/PHP/面试***](https://github.com/xiuxiubiu/chowder/issues/4)
-
 * [PHP面试整理](https://github.com/xiuxiubiu/chowder/issues/6)  `2020-04-17`
+
+* [资料记录 Go/PHP/面试](https://github.com/xiuxiubiu/chowder/issues/4)
 
 * [MySQL InnoDB锁和事务](https://github.com/xiuxiubiu/chowder/issues/5)
 
