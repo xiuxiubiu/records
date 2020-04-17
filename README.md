@@ -1,15 +1,19 @@
 # chowder
 
-* [***资料记录 Go/PHP/面试***](https://github.com/xiuxiubiu/chowder/issues/4) [`整理中...`](https://github.com/xiuxiubiu/chowder/labels/整理中...)
+[`整理中...`](https://github.com/xiuxiubiu/chowder/labels/整理中...) [`面试`](https://github.com/xiuxiubiu/chowder/labels/面试) [`PHP`](https://github.com/xiuxiubiu/chowder/labels/PHP) [`mysql`](https://github.com/xiuxiubiu/chowder/labels/MySQL) [`Go`](https://github.com/xiuxiubiu/chowder/labels/Go) [`Gin`](https://github.com/xiuxiubiu/chowder/labels/Gin) [`FFmpeg`](https://github.com/xiuxiubiu/chowder/labels/FFmpeg) [`RabbitMQ`](https://github.com/xiuxiubiu/chowder/labels/RabbitMQ)
 
-* [PHP面试整理](https://github.com/xiuxiubiu/chowder/issues/6) [`整理中...`](https://github.com/xiuxiubiu/chowder/labels/整理中...) [`面试`](https://github.com/xiuxiubiu/chowder/labels/面试) [`PHP`](https://github.com/xiuxiubiu/chowder/labels/PHP)
+---
 
-* [MySQL InnoDB锁和事务](https://github.com/xiuxiubiu/chowder/issues/5) [`整理中...`](https://github.com/xiuxiubiu/chowder/labels/整理中...) [`mysql`](https://github.com/xiuxiubiu/chowder/labels/MySQL)
+* [***资料记录 Go/PHP/面试***](https://github.com/xiuxiubiu/chowder/issues/4)
 
-* [Gin框架ShouldBind/ShouldBindBodyWith源码学习](https://github.com/xiuxiubiu/chowder/issues/2) [`Go`](https://github.com/xiuxiubiu/chowder/labels/Go) [`Gin`](https://github.com/xiuxiubiu/chowder/labels/Gin)
+* [PHP面试整理 `2020-04-17`](https://github.com/xiuxiubiu/chowder/issues/6)
+
+* [MySQL InnoDB锁和事务](https://github.com/xiuxiubiu/chowder/issues/5)
+
+* [Gin框架ShouldBind/ShouldBindBodyWith源码学习](https://github.com/xiuxiubiu/chowder/issues/2)
   
- * [使用php-amqplib客户端的RabbitMQ代码示例](https://github.com/xiuxiubiu/chowder/issues/3)  [`PHP`](https://github.com/xiuxiubiu/chowder/labels/PHP) [`RabbitMQ`](https://github.com/xiuxiubiu/chowder/labels/RabbitMQ)
+ * [使用php-amqplib客户端的RabbitMQ代码示例](https://github.com/xiuxiubiu/chowder/issues/3)
   
- * [FFmpeg环境搭建](https://github.com/xiuxiubiu/chowder/issues/1) [`FFmpeg`](https://github.com/xiuxiubiu/chowder/labels/FFmpeg)
+ * [FFmpeg环境搭建](https://github.com/xiuxiubiu/chowder/issues/1)
 
 
