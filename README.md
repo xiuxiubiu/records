@@ -4,7 +4,7 @@
 
 ---
 
-* [PHP面试整理](https://github.com/xiuxiubiu/chowder/issues/6)  `2020-04-18`
+* [PHP面试整理](https://github.com/xiuxiubiu/chowder/issues/6)  `2020-04-20`
 
 * [资料记录 Go/PHP/面试](https://github.com/xiuxiubiu/chowder/issues/4)
 
