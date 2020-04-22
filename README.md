@@ -4,6 +4,8 @@
 
 ---
 
+* [Authentication plugin 'caching_sha2_password' cannot be loaded](https://github.com/xiuxiubiu/chowder/issues/7) `2020-04-22`
+
 * [PHP面试整理](https://github.com/xiuxiubiu/chowder/issues/6)  `2020-04-20`
 
 * [资料记录 Go/PHP/面试](https://github.com/xiuxiubiu/chowder/issues/4)
