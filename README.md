@@ -4,11 +4,11 @@
 
 ---
 
+* [面试整理](https://www.xiuxiubiu.com/2020/08/11/interview/)  `2020-08-11`
+
 * [Mac PHP5.6/7.0 - dyld: Library not loaded - openssl1.0.0 needed](https://github.com/xiuxiubiu/chowder/issues/8) `2020-04-26`
 
 * [MySQL8 - Authentication plugin 'caching_sha2_password' cannot be loaded](https://github.com/xiuxiubiu/chowder/issues/7) `2020-04-22`
-
-* [PHP面试整理](https://github.com/xiuxiubiu/chowder/issues/6)  `2020-04-20`
 
 * [资料记录 Go/PHP/面试](https://github.com/xiuxiubiu/chowder/issues/4)
 
